@@ -18,7 +18,7 @@ h3, h2 {
 }
     
 #footer {
-	margin-left: 100%;
+	display:none;
 }
 
 @keyframes gradient {
